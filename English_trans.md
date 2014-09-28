@@ -1,28 +1,38 @@
-#Cultivating Social Resources on Social Network Sites: Facebook Relationship Maintenance Behaviors and Their Role in Social Capital Processes
+
 
 #在社交网站中培养社会的资源：Facebook的关系维护行为及其社会资本过程中的作用
 
-**Keywords:**
+**关键词:**
 
 Nicole B. Ellison1,
 Jessica Vitak2,
 Rebecca Gray3 and
 Cliff Lampe4
-Article first published online: 19 MAR 2014
+文章首次发表时间：2014年3月19日 
 
 DOI: 10.1111/jcc4.12078
 
-© 2014 International Communication Association
+© 2014年国际交流协会
 
 
 ##Abstract
 
 >
 This study explores the relationship between perceived bridging social capital and specific Facebook-enabled communication behaviors using survey data from a sample of U.S. adults (N=614). We explore the role of a specific set of Facebook behaviors that support relationship maintenance and assess the extent to which demographic variables, time on site, total and “actual” Facebook Friends, and this new measure (Facebook Relationship Maintenance Behaviors) predict bridging social capital. Drawing upon scholarship on social capital and relationship maintenance, we discuss the role of social grooming and attention-signaling activities in shaping perceived access to resources in one's network as measured by bridging social capital.
+本研究采用来自美国成年人（N =614）的调查数据样本，探讨了感知弥合社会资本与特定的Facebook功能的传播行为之间的关系。我们探索一组特定的支持关系维护的Facebook行为的作用，并评估在多大程度上人口统计变数，网站停留时间，总与“实际”的Facebook好友，以及这项新措施（Facebook的关系维护行为）预测弥合社会资本。在学术研究上的社会资本和关系维护图纸，我们将讨论在塑造一个网络资源的访问视为通过桥接社会资本衡量社会疏导和注意力的信号活动的作用。 
+
 
 Social network sites (SNSs) are web-based communication platforms that support socially relevant interactions among contacts (i.e., “Friends”) on the site (Ellison, Steinfield, & Lampe, 2011). Previous research has documented a relationship between use of the SNS Facebook and increased levels of social capital (Burke, Kraut, & Marlow, 2011; Burke, Marlow, & Lento, 2010; Ellison, Steinfield, & Lampe, 2007, 2011; Steinfield, Ellison, & Lampe, 2008; Valenzuela, Park, & Kee, 2009), a form of capital that describes resources embedded in social relationships and interactions within a network (Lin, 2001). Facebook may be especially well-suited for accruing bridging social capital, which speaks to the benefits associated with weaker, more heterogeneous social ties such as novel information and broadened worldviews (Burke et al., 2011; Ellison et al., 2007, 2011), in part because the site enables users to create “social supernets” of hundreds of social connections (Donath, 2007).
 
 Previous research has examined the relationship between social capital and various Facebook activities, evolving from studies on overall measures of Facebook use (Ellison et al., 2007) to more granular metrics such as perceptions of “actual friends” on the site (Ellison et al., 2011), and engaging in directed communication with Friends (Burke et al., 2011). In this paper, we extend previous work to focus on the relationship between bridging social capital and users' engagement in a set of specific communication behaviors we call Facebook Relationship Maintenance Behaviors (FRMB). This measure assesses users' intention to respond to requests or needs articulated by members of their network and to engage in relationship maintenance activities such as wishing a Facebook Friend “Happy Birthday.” Although past work has identified a link between generic Facebook use and bridging social capital, here we unpack specific activities to better explicate the mechanism through which Facebook-enabled behaviors relate to social capital accrual. Specifically, we explore how individuals are using the site to maintain social relationships and how these activities relate to perceptions of social capital using survey data collected from a sample of nonacademic staff at a large Midwestern U.S. university (N=614). Our analysis draws upon concepts from social capital and relationship maintenance scholarship and considers the sociotechnical affordances of SNSs.
+
+##摘要 
+
+> 
+
+社交网站（SNS的）是支持触点之间的社会互动有关（即“老友记”）在网站上（埃里森，Steinfield，和兰佩，2011）基于网络的交流平台。以往的研究已经证明使用了SNS的Facebook和社会资本（伯克，克劳特，马洛和2011年水平的提高之间的关系;伯克，马洛，和伦托，2010年埃里森，Steinfield，和兰佩，2007，2011; Steinfield，埃里森和兰佩，2008;巴伦苏埃拉，公园，和记，2009年），资本的一种形式，描述在一个网络中（林，2001）嵌入在社会关系和互动资源。 Facebook可能将特别适合用于桥接累积社会资本，其中提到与弱，更异质的社会关系，如新的信息，并扩大世界观带来的好处（Burke等，2011;。埃里森等，2007，2011） ，部分原因是该网站允许用户创建“社会超网”数百名社会关系（多纳特，2007年）。 
+
+以往的研究已经研究社会资本和各种Facebook的活动之间的关系，从Facebook的使用整体措施的研究不断变化的（Ellison等人，2007），以更细化的指标，如“真实交友”网站上的观点（Ellison等人，2011），以及从事与好友导演沟通（Burke等，2011）。在本文中，我们延续以前的工作集中于一组特定的通信行为，我们称之为Facebook的关系维护行为（FRMB）弥合社会资本和用户的参与之间的关系。这项措施评估用户的意图来应对他们的网络成员阐明的要求或需求，并从事相关的维修活动，如希望Facebook的朋友“生日快乐。”尽管过去的工作已经确定了通用的Facebook之间的联系使用和跨越型社会资本，在这里我们解压的具体活动，以更好地阐明，通过它的Facebook功能的行为，涉及到社会资本累积的机制。具体来说，我们将探讨个人如何使用该网站维护社会关系以及这些活动如何与使用从非学术人员的样本收集了大量美国中西部大学（N =614）的调查数据社会资本的看法。我们的分析借鉴，从社会资本和关系维护学术的概念，并认为SNS的的社会技术启示。
 
 
 ##Social Capital
