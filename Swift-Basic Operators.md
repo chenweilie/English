@@ -1,8 +1,13 @@
-Basic Operators
+#Basic Operators
+#基本操作
 
 An operator is a special symbol or phrase that you use to check, change, or combine values. For example, the addition operator (+) adds two numbers together (as in let i = 1 + 2). More complex examples include the logical AND operator && (as in if enteredDoorCode && passedRetinaScan) and the increment operator ++i, which is a shortcut to increase the value of i by 1.
 
+运算符是一个特殊的符号，或者你用它来检查，更改或合并值。例如，加法运算符（+），将两个数字相加（如令i=1+2）。更复杂的例子包括逻辑AND运算符&&（如 if enteredDoorCode&& passedRetinaScan）和递增运算符++我，这是由1增加i的值的快捷方式。
+
 Swift supports most standard C operators and improves several capabilities to eliminate common coding errors. The assignment operator (=) does not return a value, to prevent it from being mistakenly used when the equal to operator (==) is intended. Arithmetic operators (+, -, *, /, % and so forth) detect and disallow value overflow, to avoid unexpected results when working with numbers that become larger or smaller than the allowed value range of the type that stores them. You can opt in to value overflow behavior by using Swift’s overflow operators, as described in Overflow Operators.
+
+Swift支持大部分标准C运算twfy，并改善一些功能，以消除常见的编码错误。赋值运算符（=）没有返回值，以防止它被误用时，等于运算符（==）拟。算术运算符（+， - ，*，/，％等）检测并禁止值溢出，与变得比存储他们的类型所允许的值的范围更大或更小数目的工作时，以避免意外的结果。您可以选择价值溢出行为使用斯威夫特的溢出运营商，如溢出运营商介绍。
 
 Unlike C, Swift lets you perform remainder (%) calculations on floating-point numbers. Swift also provides two range operators (a..<b and a...b) not found in C, as a shortcut for expressing a range of values.
 
